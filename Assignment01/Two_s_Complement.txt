@@ -1,0 +1,14 @@
+
+2-complement allows use of addition operation both as summing and subtracation funciton.
+
+If we take the example 50-12; 2s complement does the equivalent of:
+
+  [ 50 + {(256 - 12)] - 256}. 
+
+  ... in an 8bit represenation
+
+-> bit inversion and adding 1 operation accomplishes shown in bracket ()
+
+-> the addition is simple bit addition of the result in () and 50 bound by square [] - in binary
+
+-> subtracting 256 is equivalent to throwing the carry away

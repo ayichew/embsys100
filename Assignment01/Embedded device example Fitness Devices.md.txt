@@ -1,0 +1,5 @@
+Embedded systems are increasingly called up to simplify modern life. One of my favorite devices interms of sophosticated sensors and signal processing are personal **fitness devices**. 
+
+These devices sense or infer body biometrics in real time, process geo-location, run filtering and diagnosis algorithms in the backgound, 
+
+display those on an device screen and/or communicate with a smart phone via bluetooth, servive the environment (water, shock,..) all while expected to use the least amount of battery power for the longest time, only occupy space not larger than a traditional wrist watch.
