@@ -25,8 +25,15 @@ Function Name   : main
 Description     : 
 Parameters      :
 Return value    :               */
+int counter = 0x0;
 void main() {
-uint8_t foo;
+    int *p_int = (int *)0x20000000;;
+    ++(*p_int);
+    ++(*p_int);
+    ++(*p_int);
+    counter ++;
+  
+  uint8_t foo;
 
   foo = 10;
   Hw_init();
@@ -42,10 +49,10 @@ uint8_t foo;
     GPIO_ToggleBits(GPIO_PORT_LD2, GPIO_PIN_LD2);
     PrintString("EMBSYS CP100A: University of Washington - UART Test Application \n");
     
-    delay(10000);
+    delay(1000);
     GPIO_ToggleBits(GPIO_PORT_LD2, GPIO_PIN_LD2);
     
-    delay(10000);
+    delay(1000);
     foo--;
   }
   while (1) {

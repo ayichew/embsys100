@@ -1,0 +1,43 @@
+** Homework # 2 **
+1.(a) 536870912   
+1.(b) 0x20000000 
+1.(c) all flags are zero because there wasn't an overflow
+
+
+2.(a) counter will be zero 0x00000000
+2.(b) APSR flags
+----- N  0
+----- Z  1
+----- C  1
+----- V  0
+----- Q  0
+----- GE 0b000
+We were at the very end of what the maximum number the data type int is able to handle. Increasing by one resulted in a zero of all allocated bits and and a carry indicating an overflow.
+
+3.(a) 0x20000000
+     subsequent increments just increased the LSB by one without an overflow
+3.(b) None of the flags are set; no overflow has occured.
+
+
+4.(a) 0
+sesequent increments increased the LSB by one following an overflow
+4.(b)  APSR flags
+----- N  0
+----- Z  1
+----- C  1
+----- V  0
+----- Q  0
+----- GE 0b000
+
+5.(a) Global scope
+5.(b) Not visible in locals window
+5.(c) Watch window
+5.(d) 0x20000000
+
+6.(a) the valve of counter is 4
+6.(b) ++(*p_int) operation increments the value of the interger pointed to by the p_int pointer - which in this case holds the address of counter; same as incrementing the counter itself in ++counter operation.
+
+7.(a) 0x2000011C
+7.(b) 1 (the final value of counter at the end of code segment). If the pointer is made to point to adress of counter - which is 0x2000011C - counter would have incremented with each call of ++(*p_int);
+ 
+

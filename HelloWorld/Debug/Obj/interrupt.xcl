@@ -1,26 +1,26 @@
-"C:\CUW_Workspace\HelloWorld\src\interrupt.c"
+"C:\CUW_Workspace\embsys100\HelloWorld\src\interrupt.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-C:\CUW_Workspace\HelloWorld\Debug\Obj\interrupt.pbi.dep
+C:\CUW_Workspace\embsys100\HelloWorld\Debug\Obj\interrupt.pbi.dep
 -o
 interrupt.pbi
 -I
-C:\CUW_Workspace\HelloWorld\src
+C:\CUW_Workspace\embsys100\HelloWorld\src
 -I
-C:\CUW_Workspace\HelloWorld\inc
+C:\CUW_Workspace\embsys100\HelloWorld\inc
 -I
-C:\CUW_Workspace\HelloWorld\common
+C:\CUW_Workspace\embsys100\HelloWorld\common
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc\c
 -I
-C:\CUW_Workspace\HelloWorld\inc
+C:\CUW_Workspace\embsys100\HelloWorld\inc
 -I
-C:\CUW_Workspace\HelloWorld\common
+C:\CUW_Workspace\embsys100\HelloWorld\common
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
