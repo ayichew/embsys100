@@ -1,0 +1,7 @@
+1.(a) Morse Code is a way of representing A-Z charactors using ./- charactors in written expression. When translating ./- for visual or audible communicaiton,the ./- need to be encoded into relative short and long flashes and beeps.
+My brief internet research led me to a facinating secrete comminication by a Vietnam POW US Admiral (Jeremaih Denton) communicating "T-R-T-U-R-E" by blinking his eyes during an interview with his captors.
+
+Another trivia that I stumbled upon is the fact that Morse code for S-O-S is ...---... , a convinient combination to convey panic when other meanses are not viable.
+
+1.(b) Samuel Morse
+

@@ -1,0 +1,394 @@
+[
+  {
+    "ID": "c:main.c@94@macro@RCC_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCC_BASE",
+    "location": {
+      "column": "9",
+      "line": "6",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "RCC_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@157@macro@RCC_AHB1ENR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCC_AHB1ENR",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "RCC_AHB1ENR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@269@macro@GPIOA_BASER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_BASER",
+    "location": {
+      "column": "9",
+      "line": "11",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "GPIOA_BASER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@301@macro@GPIOA_MODER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_MODER",
+    "location": {
+      "column": "9",
+      "line": "12",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "GPIOA_MODER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@361@macro@GPIOA_ODR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_ODR",
+    "location": {
+      "column": "9",
+      "line": "13",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "GPIOA_ODR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@formMorse",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "char formMorse(const char *)",
+    "location": {
+      "column": "6",
+      "line": "15",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "formMorse",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@dotSignal",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void dotSignal(void)",
+    "location": {
+      "column": "6",
+      "line": "16",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "dotSignal",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@dashSignal",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void dashSignal(void)",
+    "location": {
+      "column": "6",
+      "line": "17",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "dashSignal",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@LED_on",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void LED_on(void)",
+    "location": {
+      "column": "6",
+      "line": "18",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "LED_on",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@LED_off",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void LED_off(void)",
+    "location": {
+      "column": "6",
+      "line": "19",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "LED_off",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@entryPause",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void entryPause(void)",
+    "location": {
+      "column": "6",
+      "line": "20",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "entryPause",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@pauseForDot",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void pauseForDot(void)",
+    "location": {
+      "column": "6",
+      "line": "21",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "pauseForDot",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@pauseForDash",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void pauseForDash(void)",
+    "location": {
+      "column": "6",
+      "line": "22",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "pauseForDash",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@pauseInBetween",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void pauseInBetween(void)",
+    "location": {
+      "column": "6",
+      "line": "23",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "pauseInBetween",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delayByThis",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void delayByThis(void)",
+    "location": {
+      "column": "6",
+      "line": "24",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "delayByThis",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "26",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@748@F@main@EFREM_MORSE_CODE",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "EFREM_MORSE_CODE",
+    "location": {
+      "column": "8",
+      "line": "30",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "EFREM_MORSE_CODE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@858@F@main@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "12",
+      "line": "32",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@dotSignal",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void dotSignal(void)",
+    "location": {
+      "column": "6",
+      "line": "40",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "dotSignal",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@dashSignal",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void dashSignal(void)",
+    "location": {
+      "column": "6",
+      "line": "43",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "dashSignal",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@LED_on",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void LED_on(void)",
+    "location": {
+      "column": "6",
+      "line": "46",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "LED_on",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@LED_off",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void LED_off(void)",
+    "location": {
+      "column": "6",
+      "line": "47",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "LED_off",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@entryPause",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void entryPause(void)",
+    "location": {
+      "column": "6",
+      "line": "49",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "entryPause",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@pauseForDot",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void pauseForDot(void)",
+    "location": {
+      "column": "6",
+      "line": "50",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "pauseForDot",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@pauseForDash",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void pauseForDash(void)",
+    "location": {
+      "column": "6",
+      "line": "51",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "pauseForDash",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@pauseInBetween",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void pauseInBetween(void)",
+    "location": {
+      "column": "6",
+      "line": "52",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "pauseInBetween",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delayByThis",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void delayByThis(unsigned int)",
+    "location": {
+      "column": "6",
+      "line": "54",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "delayByThis",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1636@F@delayByThis@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "12",
+      "line": "56",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment03\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  }
+]
