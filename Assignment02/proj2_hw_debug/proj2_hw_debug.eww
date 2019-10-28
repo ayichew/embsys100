@@ -3,5 +3,11 @@
     <project>
         <path>$WS_DIR$\..\..\HelloWorld\HelloWorld.ewp</path>
     </project>
+    <project>
+        <path>$WS_DIR$\..\..\LED_Ex\LED_Practice.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\Assignment03\Morse_Code_Assignement.ewp</path>
+    </project>
     <batchBuild />
 </workspace>
