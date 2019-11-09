@@ -957,7 +957,7 @@
             <IarPane-34105>
                 <expressions>
                     <item>0x40023830</item>
-                    <item></item>
+                    <item />
                 </expressions>
                 <col-names>
                     <item>Expression</item>

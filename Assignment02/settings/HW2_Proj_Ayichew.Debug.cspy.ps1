@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\CUW_Workspace\embsys100\Assignment02\proj2_hw_debug\settings\proj2_hw_debug.Debug.general.xcl" --backend -f "C:\CUW_Workspace\embsys100\Assignment02\proj2_hw_debug\settings\proj2_hw_debug.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\CUW_Workspace\embsys100\Assignment02\settings\HW2_Proj_Ayichew.Debug.general.xcl" --backend -f "C:\CUW_Workspace\embsys100\Assignment02\settings\HW2_Proj_Ayichew.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\CUW_Workspace\embsys100\Assignment02\proj2_hw_debug\settings\proj2_hw_debug.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\CUW_Workspace\embsys100\Assignment02\proj2_hw_debug\settings\proj2_hw_debug.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\CUW_Workspace\embsys100\Assignment02\settings\HW2_Proj_Ayichew.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\CUW_Workspace\embsys100\Assignment02\settings\HW2_Proj_Ayichew.Debug.driver.xcl" 
 }

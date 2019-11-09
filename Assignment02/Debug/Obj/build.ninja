@@ -1,4 +1,4 @@
-#Generating source browse information for project proj2_hw_debug
+#Generating source browse information for project HW2_Proj_Ayichew
 
 
 #Abbreviations
@@ -21,7 +21,7 @@ rule browsedata
 
 #Build steps
 build main.pbi : index main.xcl
-build proj2_hw_debug.pbd : link main.pbi
-build proj2_hw_debug.pbw : browsedata proj2_hw_debug.pbd
+build HW2_Proj_Ayichew.pbd : link main.pbi
+build HW2_Proj_Ayichew.pbw : browsedata HW2_Proj_Ayichew.pbd
 
 

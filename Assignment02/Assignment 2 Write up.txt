@@ -11,13 +11,19 @@
 ----- C  1
 ----- V  0
 ----- Q  0
------ GE 0b000
+
 We were at the very end of what the maximum number the data type int is able to handle. Increasing by one resulted in a zero of all allocated bits and and a carry indicating an overflow.
 
-3.(a) 0x20000000
+3.(a) {This is revised based on change of register set value}
+     0x80000000
      subsequent increments just increased the LSB by one without an overflow
-3.(b) None of the flags are set; no overflow has occured.
-
+3.(b)  APSR flags
+----- N  1
+----- Z  0
+----- C  0
+----- V  1
+----- Q  0
+The increase by 1 in this case activated the sign bit (the MSB in this cas). The Application Program Status Bits (APSR) flags N (negative) and V (Overflow) has been raised.
 
 4.(a) 0
 sesequent increments increased the LSB by one following an overflow
@@ -27,7 +33,8 @@ sesequent increments increased the LSB by one following an overflow
 ----- C  1
 ----- V  0
 ----- Q  0
------ GE 0b000
+This case is case of an overflow as in 2. above where all 32 bits
+
 
 5.(a) Global scope
 5.(b) Not visible in locals window
@@ -37,7 +44,8 @@ sesequent increments increased the LSB by one following an overflow
 6.(a) the valve of counter is 4
 6.(b) ++(*p_int) operation increments the value of the interger pointed to by the p_int pointer - which in this case holds the address of counter; same as incrementing the counter itself in ++counter operation.
 
-7.(a) 0x2000011C
-7.(b) 1 (the final value of counter at the end of code segment). If the pointer is made to point to adress of counter - which is 0x2000011C - counter would have incremented with each call of ++(*p_int);
+7.(a) 0x20000000
+7.(b) counter is stored in RAM
+7.(c) 4
  
 
