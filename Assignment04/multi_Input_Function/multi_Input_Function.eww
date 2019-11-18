@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\circular_Queue\HW4_Circular_Queue.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\multi_Input_Function.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

@@ -1,0 +1,226 @@
+[
+  {
+    "ID": "c:@F@callMe1",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int callMe1(int, int, int, int, int, int, int)",
+    "location": {
+      "column": "5",
+      "line": "7",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "callMe1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@callMe2",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int callMe2(int)",
+    "location": {
+      "column": "5",
+      "line": "8",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "callMe2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "10",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@197@F@main@a1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a1",
+    "location": {
+      "column": "6",
+      "line": "12",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "a1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@211@F@main@a2",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a2",
+    "location": {
+      "column": "6",
+      "line": "13",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "a2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@225@F@main@a3",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a3",
+    "location": {
+      "column": "6",
+      "line": "14",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "a3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@239@F@main@a4",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a4",
+    "location": {
+      "column": "6",
+      "line": "15",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "a4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@253@F@main@a5",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a5",
+    "location": {
+      "column": "6",
+      "line": "16",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "a5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@267@F@main@a6",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a6",
+    "location": {
+      "column": "6",
+      "line": "17",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "a6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@281@F@main@a7",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a7",
+    "location": {
+      "column": "6",
+      "line": "18",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "a7",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@298@F@main@summed1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "summed1",
+    "location": {
+      "column": "6",
+      "line": "20",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "summed1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@298@F@main@summed2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "summed2",
+    "location": {
+      "column": "15",
+      "line": "20",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "summed2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@callMe1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int callMe1(int, int, int, int, int, int, int)",
+    "location": {
+      "column": "5",
+      "line": "27",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "callMe1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@493@F@callMe1@returnMe",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "returnMe",
+    "location": {
+      "column": "6",
+      "line": "29",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "returnMe",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@callMe2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int callMe2(int)",
+    "location": {
+      "column": "5",
+      "line": "33",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "callMe2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@594@F@callMe2@returnMe",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "returnMe",
+    "location": {
+      "column": "6",
+      "line": "35",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment04\\multi_Input_Function\\main.c"
+    },
+    "name": "returnMe",
+    "origin": "project_file",
+    "scope": null
+  }
+]

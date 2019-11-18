@@ -1,0 +1,17 @@
+HW4 Write-up
+*****************************************
+1a-
+1b) using Bit banding, the compiler produces atomic assembly instructons that are immune to alteration during interupt calls
+
+1.c) 
+LDR.N  R4, [PC, #0X34]
+MOVS   RO, #1
+STR    RO,[R4]
+****************************************
+2.a) 
+Multi function call is done by pushing function parameters into stack and branching to the function location; the called function will pull from the stack and use the parameters before returning. By extention; a multi-out put funciton would have pushed the output params to stack before PC returns the program flow to the calling.
+
+2.b) STR.W [{}, {}]
+2.c) PUSH  { - }
+
+3. Code adapted from char data type queue given in the example to an int data type.
