@@ -1,0 +1,114 @@
+[
+  {
+    "ID": "c:@F@swap_pointer",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void swap_pointer(int *, int *)",
+    "location": {
+      "column": "6",
+      "line": "2",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\Swap_Example\\main.c"
+    },
+    "name": "swap_pointer",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "3",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\Swap_Example\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@81@F@main@a",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a",
+    "location": {
+      "column": "7",
+      "line": "5",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\Swap_Example\\main.c"
+    },
+    "name": "a",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@96@F@main@b",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "b",
+    "location": {
+      "column": "7",
+      "line": "6",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\Swap_Example\\main.c"
+    },
+    "name": "b",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@111@F@main@aPtr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "aPtr",
+    "location": {
+      "column": "8",
+      "line": "7",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\Swap_Example\\main.c"
+    },
+    "name": "aPtr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@131@F@main@bPtr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "bPtr",
+    "location": {
+      "column": "8",
+      "line": "8",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\Swap_Example\\main.c"
+    },
+    "name": "bPtr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@swap_pointer",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void swap_pointer(int *, int *)",
+    "location": {
+      "column": "6",
+      "line": "13",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\Swap_Example\\main.c"
+    },
+    "name": "swap_pointer",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@265@F@swap_pointer@temp",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "temp",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\Swap_Example\\main.c"
+    },
+    "name": "temp",
+    "origin": "project_file",
+    "scope": null
+  }
+]

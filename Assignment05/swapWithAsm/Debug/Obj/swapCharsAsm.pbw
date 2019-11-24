@@ -1,0 +1,72 @@
+[
+  {
+    "ID": "c:@F@swapCharsAsm",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int swapCharsAsm(char *, char *)",
+    "location": {
+      "column": "13",
+      "line": "3",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\swapWithAsm\\main.c"
+    },
+    "name": "swapCharsAsm",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@swap_pointer",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void swap_pointer(void)",
+    "location": {
+      "column": "6",
+      "line": "4",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\swapWithAsm\\main.c"
+    },
+    "name": "swap_pointer",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "6",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\swapWithAsm\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@102@F@main@FN",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "FN",
+    "location": {
+      "column": "8",
+      "line": "8",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\swapWithAsm\\main.c"
+    },
+    "name": "FN",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@120@F@main@LN",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "LN",
+    "location": {
+      "column": "8",
+      "line": "9",
+      "path": "C:\\CUW_Workspace\\embsys100\\Assignment05\\swapWithAsm\\main.c"
+    },
+    "name": "LN",
+    "origin": "project_file",
+    "scope": null
+  }
+]
