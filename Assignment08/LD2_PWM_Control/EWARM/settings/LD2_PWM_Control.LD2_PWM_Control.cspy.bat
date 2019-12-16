@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\settings\LD2_PWM_Control.LD2_PWM_Control.general.xcl" --backend -f "C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\settings\LD2_PWM_Control.LD2_PWM_Control.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\settings\LD2_PWM_Control.LD2_PWM_Control.general.xcl" --backend -f "C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\settings\LD2_PWM_Control.LD2_PWM_Control.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\settings\LD2_PWM_Control.LD2_PWM_Control.general.xcl" "--debug_file=%~1" --backend -f "C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\settings\LD2_PWM_Control.LD2_PWM_Control.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\settings\LD2_PWM_Control.LD2_PWM_Control.general.xcl" "--debug_file=%~1" --backend -f "C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\settings\LD2_PWM_Control.LD2_PWM_Control.driver.xcl" 
 
 @echo off 
 :end

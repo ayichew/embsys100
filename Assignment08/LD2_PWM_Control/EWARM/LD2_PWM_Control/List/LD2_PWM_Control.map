@@ -1,41 +1,41 @@
 ###############################################################################
 #
-# IAR ELF Linker V8.40.1.212/W32 for ARM                  16/Dec/2019  05:35:56
+# IAR ELF Linker V8.40.1.212/W32 for ARM                  16/Dec/2019  06:21:01
 # Copyright 2007-2019 IAR Systems AB.
 #
 #    Output file  =
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Exe\LD2_PWM_Control.out
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Exe\LD2_PWM_Control.out
 #    Map file     =
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\List\LD2_PWM_Control.map
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\List\LD2_PWM_Control.map
 #    Command line =
-#        -f C:\Users\Efrem\AppData\Local\Temp\EW1C44.tmp
-#        (C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\main.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\startup_stm32f401xe.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_cortex.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_dma.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_dma_ex.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_exti.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_flash.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_flash_ex.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_flash_ramfunc.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_gpio.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_msp.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_pwr.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_pwr_ex.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_rcc.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_rcc_ex.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_tim.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_tim_ex.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_it.o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\system_stm32f4xx.o
+#        -f C:\Users\Efrem\AppData\Local\Temp\EW6396.tmp
+#        (C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\main.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\startup_stm32f401xe.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_cortex.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_dma.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_dma_ex.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_exti.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_flash.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_flash_ex.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_flash_ramfunc.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_gpio.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_msp.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_pwr.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_pwr_ex.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_rcc.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_rcc_ex.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_tim.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_hal_tim_ex.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\stm32f4xx_it.o
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj\system_stm32f4xx.o
 #        --redirect _Printf=_PrintfFull --redirect _Scanf=_ScanfFull
 #        --no_out_extension -o
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Exe\LD2_PWM_Control.out
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Exe\LD2_PWM_Control.out
 #        --map
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\List\LD2_PWM_Control.map
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\List\LD2_PWM_Control.map
 #        --config
-#        C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM/stm32f401xe_flash.icf
+#        C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM/stm32f401xe_flash.icf
 #        --semihosting --entry __iar_program_start --vfe --text_out locale)
 #
 ###############################################################################
@@ -217,7 +217,7 @@ command line/config:
     -------------------------------------------------
     Total:
 
-C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj: [1]
+C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj: [1]
     main.o                      348       11       64
     startup_stm32f401xe.o       640
     stm32f4xx_hal.o             184        1       12
@@ -316,7 +316,7 @@ Region$$Table$$Base      0x800'1308          --   Gb  - Linker created -
 Region$$Table$$Limit     0x800'1318          --   Gb  - Linker created -
 SVC_Handler              0x800'1323    0x2  Code  Gb  stm32f4xx_it.o [1]
 SysTick_Handler          0x800'1329    0x4  Code  Gb  stm32f4xx_it.o [1]
-SystemClock_Config       0x800'10d3   0x7a  Code  Gb  main.o [1]
+SystemClock_Config       0x800'10d5   0x7a  Code  Gb  main.o [1]
 SystemCoreClock         0x2000'000c    0x4  Data  Gb  system_stm32f4xx.o [1]
 SystemInit               0x800'1291   0x14  Code  Gb  system_stm32f4xx.o [1]
 TIM2_IRQHandler          0x800'132d    0x6  Code  Gb  stm32f4xx_it.o [1]
@@ -347,15 +347,15 @@ _exit                    0x800'1371         Code  Gb  cexit.o [4]
 _main                    0x800'1363         Code  Gb  cmain.o [4]
 exit                     0x800'136b    0x4  Code  Gb  exit.o [2]
 htim2                   0x2000'0010   0x40  Data  Gb  main.o [1]
-main                     0x800'1029   0xaa  Code  Gb  main.o [1]
+main                     0x800'1029   0xac  Code  Gb  main.o [1]
 memset                   0x800'0815   0x14  Code  Gb  memset.o [4]
-user_pwm_setvalue        0x800'114d   0x26  Code  Gb  main.o [1]
+user_pwm_setvalue        0x800'114f   0x26  Code  Gb  main.o [1]
 uwTick                  0x2000'0004    0x4  Data  Gb  stm32f4xx_hal.o [1]
 uwTickFreq              0x2000'0000    0x1  Data  Gb  stm32f4xx_hal.o [1]
 uwTickPrio              0x2000'0008    0x4  Data  Gb  stm32f4xx_hal.o [1]
 
 
-[1] = C:\CUW_Workspace\embsys100\Assignment08_CubeMX\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj
+[1] = C:\CUW_Workspace\embsys100\Assignment08\LD2_PWM_Control\EWARM\LD2_PWM_Control\Obj
 [2] = dl7M_tln.a
 [3] = m7M_tls.a
 [4] = rt7M_tl.a

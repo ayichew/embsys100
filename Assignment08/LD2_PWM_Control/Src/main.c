@@ -108,7 +108,7 @@ int main(void)
     /* USER CODE BEGIN 3 */
       HAL_Delay(100); 
       if(pwm_value == 0) step = 50;
-      if(pwm_value == 250) step = -50;
+      if(pwm_value == 1000) step = -50;
       pwm_value += step;
       user_pwm_setvalue(pwm_value);
     }
